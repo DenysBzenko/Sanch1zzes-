@@ -1,0 +1,10 @@
+/Users/zakerden1234/Desktop/Hash-Dictionary/Hash-Dictionary/obj/Debug/net7.0/Hash-Dictionary.csproj.AssemblyReference.cache
+/Users/zakerden1234/Desktop/Hash-Dictionary/Hash-Dictionary/obj/Debug/net7.0/Hash-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zakerden1234/Desktop/Hash-Dictionary/Hash-Dictionary/obj/Debug/net7.0/Hash-Dictionary.AssemblyInfoInputs.cache
+/Users/zakerden1234/Desktop/Hash-Dictionary/Hash-Dictionary/obj/Debug/net7.0/Hash-Dictionary.AssemblyInfo.cs
+/Users/zakerden1234/Desktop/Hash-Dictionary/Hash-Dictionary/obj/Debug/net7.0/Hash-Dictionary.csproj.CoreCompileInputs.cache
+/Users/zakerden1234/Desktop/Sanch1zzes-/Hash-Dictionary/Hash-Dictionary/obj/Debug/net7.0/Hash-Dictionary.csproj.AssemblyReference.cache
+/Users/zakerden1234/Desktop/Sanch1zzes-/Hash-Dictionary/Hash-Dictionary/obj/Debug/net7.0/Hash-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zakerden1234/Desktop/Sanch1zzes-/Hash-Dictionary/Hash-Dictionary/obj/Debug/net7.0/Hash-Dictionary.AssemblyInfoInputs.cache
+/Users/zakerden1234/Desktop/Sanch1zzes-/Hash-Dictionary/Hash-Dictionary/obj/Debug/net7.0/Hash-Dictionary.AssemblyInfo.cs
+/Users/zakerden1234/Desktop/Sanch1zzes-/Hash-Dictionary/Hash-Dictionary/obj/Debug/net7.0/Hash-Dictionary.csproj.CoreCompileInputs.cache
