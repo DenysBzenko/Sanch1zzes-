@@ -1,4 +1,8 @@
-﻿public class KeyValuePair
+﻿using Hash_Dictionary;
+
+
+
+public class KeyValuePair
 {
     public string Key { get; }
 
@@ -43,6 +47,7 @@ public class LinkedList
             {
                 currentNode = currentNode.Next;
             }
+
             currentNode.Next = new LinkedListNode(pair);
         }
     }
@@ -50,10 +55,11 @@ public class LinkedList
     public void RemoveByKey(string key)
     {
         if (_first == null)
-        { 
+        {
             // Якщо список порожній, нічого не робимо
             return;
-        } 
+        }
+
         // Якщо перший елемент має ключ, що співпадає з переданим параметром, видаляємо його
         if (_first.Pair.Key == key)
         {
@@ -70,9 +76,10 @@ public class LinkedList
                 currentNode.Next = currentNode.Next.Next;
                 return;
             }
+
             currentNode = currentNode.Next;
         }
-
+        
     }
 
     public KeyValuePair GetItemWithKey(string key)
@@ -84,8 +91,11 @@ public class LinkedList
             {
                 return currentNode.Pair;
             }
+
             currentNode = currentNode.Next;
         }
+
         return null;
     }
+
 }

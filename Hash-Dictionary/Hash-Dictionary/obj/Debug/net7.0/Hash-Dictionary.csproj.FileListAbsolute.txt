@@ -8,3 +8,8 @@
 /Users/zakerden1234/Desktop/Sanch1zzes-/Hash-Dictionary/Hash-Dictionary/obj/Debug/net7.0/Hash-Dictionary.AssemblyInfoInputs.cache
 /Users/zakerden1234/Desktop/Sanch1zzes-/Hash-Dictionary/Hash-Dictionary/obj/Debug/net7.0/Hash-Dictionary.AssemblyInfo.cs
 /Users/zakerden1234/Desktop/Sanch1zzes-/Hash-Dictionary/Hash-Dictionary/obj/Debug/net7.0/Hash-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\User\Sanch1zzes-\Hash-Dictionary\Hash-Dictionary\obj\Debug\net7.0\Hash-Dictionary.csproj.AssemblyReference.cache
+C:\Users\User\Sanch1zzes-\Hash-Dictionary\Hash-Dictionary\obj\Debug\net7.0\Hash-Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Sanch1zzes-\Hash-Dictionary\Hash-Dictionary\obj\Debug\net7.0\Hash-Dictionary.AssemblyInfoInputs.cache
+C:\Users\User\Sanch1zzes-\Hash-Dictionary\Hash-Dictionary\obj\Debug\net7.0\Hash-Dictionary.AssemblyInfo.cs
+C:\Users\User\Sanch1zzes-\Hash-Dictionary\Hash-Dictionary\obj\Debug\net7.0\Hash-Dictionary.csproj.CoreCompileInputs.cache
