@@ -1,5 +1,34 @@
 ﻿using Hash_Dictionary;
 
+var dictionary = new StringsDictionary();
+string pathtoFile = "/Users/zakerden1234/Desktop/Sanch1zzes-/Hash-Dictionary/Hash-Dictionary/Dictionary.txt";
+foreach (var line in File.ReadAllLines(pathtoFile))
+{
+    string[] elements = line.Split(";");
+    string key = elements[0];
+    string value = String.Join(";", elements[1..]);
+    dictionary.Add(key, value);
+}
+
+while (true)
+{
+    Console.Write("Write the word: ");
+    var input = Console.ReadLine();
+    if (string.IsNullOrEmpty(input))
+    {
+        break;
+    }
+
+    var definition = dictionary.Get(input);
+    if (definition == null)
+    {
+        Console.WriteLine("You don't have this word in dictionary");
+    }
+    else
+    {
+        Console.WriteLine("Meaning of the word: " + definition);
+    }
+}
 
 
 public class KeyValuePair

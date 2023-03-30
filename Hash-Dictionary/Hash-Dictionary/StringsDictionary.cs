@@ -59,9 +59,9 @@ public class StringsDictionary
             throw new Exception("No such element (bucket is null)");
         }
         var pair = _buckets[index].GetItemWithKey(key);
-        if (pair.Key == null)
+        if (pair == null)
         {
-            throw new Exception("No such element (key not found)");
+            return null;
         }
         return pair.Value;
     }
